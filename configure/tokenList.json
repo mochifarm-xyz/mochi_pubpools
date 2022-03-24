@@ -114,12 +114,27 @@
             },
             {
             "chainId": 1088,
+            "address": "0x1969ff7740e903CEF7A9ad5213afee07F9E478Af",
+            "decimals": 18,
+            "name": "Argo Token",
+            "symbol": "ARGO",
+            "logoURI": "https://argofinance.io/static/media/argo-logo.f1806b75.png"
+            },
+            {
+            "chainId": 1088,
+            "address": "0xB420D2E450045036AcE93A6554541224821Fa04b",
+            "decimals": 18,
+            "name": "Trident Token",
+            "symbol": "TRIDENT",
+            "logoURI": "https://argofinance.io/static/media/trident-logo.c20a8b78.png"
+            },
+            {
+            "chainId": 1088,
             "address": "0x69fdb77064ec5c84fa2f21072973eb28441f43f3",
             "decimals": 18,
             "name": "Tethys Token",
             "symbol": "TETHYS",
             "logoURI": "https://pancakeswap.finance/images/tokens/0x69fdb77064ec5c84FA2F21072973eB28441F43F3.svg"
-
             }
         ]
 }
